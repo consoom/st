@@ -1,3 +1,6 @@
+WARNING: I did not use this patch directly, I mostly inserted everything manually, but I'll keep this patch as reference.
+Source: https://github.com/LukeSmithxyz/st/commit/73a6020865607018f6442317e7f94fb5d54a7016
+
 diff --git a/config.h b/config.h
 index 47ed4d5e..b49a405b 100644
 --- a/config.h

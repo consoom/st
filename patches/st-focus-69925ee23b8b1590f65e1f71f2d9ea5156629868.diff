@@ -1,3 +1,6 @@
+WARNING: I did not use this patch directly, I mostly inserted everything manually, but I'll keep this patch as reference.
+Source: https://github.com/LukeSmithxyz/st/commit/69925ee23b8b1590f65e1f71f2d9ea5156629868
+
 diff --git a/Xdefaults b/Xdefaults
 index 704f2db5..2c2d2e09 100644
 --- a/Xdefaults

@@ -6,7 +6,7 @@ My personal build of st
 I use this repository as a way to version control any changes I make to my terminal emulator. My terminal emulator contains keybindings and other customizations that are adopted to my own workflow, and thus, aren't usable for everyone. You might however take inspiration out this build or contribute and suggest improvements. A lot of keybindings and general tools in this build rely on other programs and configurations that I keep track of in my [dotfiles repository](https://github.com/consoom/comfydots).
 
 ## Patches done to st
-This build of st is based on [st 0.8.5](https://dl.suckless.org/st/st-0.8.5.tar.gz) (2022-01-07) and is modified with patches and other changes to the sourcecode. I have kept all used *.diff files* for patching st in [master/patches](https://github.com/consoom/st/tree/master/patches):
+This build of st is based on [st 0.8.5](https://dl.suckless.org/st/st-0.8.5.tar.gz) (2022-01-07) and is modified with patches and other changes to the sourcecode. I have kept all used *.diff files* to patch st with in [master/patches](https://github.com/consoom/st/tree/master/patches):
 
 - [alpha](https://github.com/consoom/st/blob/main/patches/st-alpha-20220206-0.8.5.diff) ([source](https://st.suckless.org/patches/alpha/)) — adds transparency to the background (compositor required)
 - [alpha dynamic](https://github.com/consoom/st/blob/main/patches/st-alpha-dynamic-73a6020865607018f6442317e7f94fb5d54a7016.diff) ([source](https://github.com/LukeSmithxyz/st/commit/73a6020865607018f6442317e7f94fb5d54a7016)) — allows you to change the alpha variable via shortcuts

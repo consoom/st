@@ -33,12 +33,14 @@ $ sudo make clean install
 |        (Control)        |Scroll down| Scrolls down (control: scrolls down 5 lines)      |
 |       Shift + Alt       | k/↑/pg up | Increment fontsize with 1                         |
 |       Shift + Alt       | j/↓/pg dn | Decrement fontsize with 1                         |
+|       Shift + Alt       |     u     | Increment fontsize faster                         |
+|       Shift + Alt       |     d     | Decrement fontsize faster                         |
 |       Shift + Alt       | r / home  | Reset fontsize                                    |
 |      (Shift) + Alt      |     c     | Copy terminal text to clipboard                   |
 |      (Shift) + Alt      |     v     | Paste clipboard text to terminal                  |
 |           Alt           |     k     | Scroll up 1 line                                  |
 |           Alt           |     j     | Scroll down 1 line                                |
-|           Alt           |     u     | Scroll up fast                                    |
-|           Alt           |     d     | Scroll down fast                                  |
+|           Alt           |     u     | Scroll up faster                                  |
+|           Alt           |     d     | Scroll down faster                                |
 |           Alt           |     a     | Increment background transparency by 5%           |
 |           Alt           |     s     | Decrement background transparency by 5%           |
